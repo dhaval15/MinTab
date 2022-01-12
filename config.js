@@ -31,11 +31,11 @@ const LIST_ITEMS = [
     link: "https://www.netflix.com/"
   },
   {
-    name: "r/unixporn",
-    link: "https://www.reddit.com/r/unixporn/"
+    name: "mytrent",
+    link: "https://mytrent.trentu.ca"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "pub.dev",
+    link: "https://pub.dev"
   },
 ]
